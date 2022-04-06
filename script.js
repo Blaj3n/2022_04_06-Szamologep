@@ -20,5 +20,6 @@ function init() {
   } 
 }
 function szamBeutes() {
-    console.log(event.target.innerHTML);
-  }
+    /*console.log(event.target.innerHTML);*/
+    $(".kijelzo").innerHTML += event.target.innerHTML;
+}

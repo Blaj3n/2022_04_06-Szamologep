@@ -27,7 +27,7 @@ article {
    grid-template-columns: 1fr 1fr 1fr;
 }
 .szamok button {
-    margin: 10px;
+    margin: 2px;
     padding: 10px;
 }
 .muvjelek {
